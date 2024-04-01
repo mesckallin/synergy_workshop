@@ -1,4 +1,4 @@
-# 
+# https://github.com/mesckallin/synergy_workshop/blob/main/lesson_4/task_2.py
 
 num = int(input('Ведите 5-значное число: '))
 
