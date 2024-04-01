@@ -1,4 +1,4 @@
-#
+# https://github.com/mesckallin/synergy_workshop/blob/main/lesson_4/task_1.py
 
 a = float(input('Введите ширину прямоугольника: '))
 b = float(input('Введите длину прямоугольника: '))
